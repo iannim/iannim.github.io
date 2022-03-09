@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code confidentiality | Michele Ianni</title>
+    <link>https://iannim.github.io/tag/code-confidentiality/</link>
+      <atom:link href="https://iannim.github.io/tag/code-confidentiality/index.xml" rel="self" type="application/rss+xml" />
+    <description>code confidentiality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iannim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>code confidentiality</title>
+      <link>https://iannim.github.io/tag/code-confidentiality/</link>
+    </image>
+    
+    <item>
+      <title>Tarnhelm: Isolated, Transparent &amp; Confidential Execution of Arbitrary Code in ARM&#39;s TrustZone</title>
+      <link>https://iannim.github.io/publication/quarta-2021-tarnhelm/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/quarta-2021-tarnhelm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

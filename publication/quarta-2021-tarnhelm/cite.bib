@@ -1,0 +1,18 @@
+@inproceedings{quarta2021tarnhelm,
+ abstract = {Protecting the confidentiality of applications on commodity operating systems, both on desktop and mobile devices, is challenging: attackers have unrestricted control over an application's processes and thus direct access to any of the application's assets. However, the application's code itself can be of great commercial value, for example in the case of proprietary code or additional functionality obtained as downloadable content and via in-app purchases, which are widely used to monetize free applications through premium content. Developers still rely heavily on obfuscation to protect their own code from unauthorized tampering or copying, providing an obstacle for an attacker, but not preventing compromise. In this paper, we present Tarnhelm, an approach to offer a practical and transparent primitive to implement code confidentiality by extending ARM's TrustZone, a TEE that so far provides limited functionality to application developers. Tarnhelm allows developers to easily designate part of their code as confidential through source code annotations. At compile time, Tarnhelm automatically partitions the application into regular application code, executed in the "normal world," and the invisible code, transparently executed in the "secure world." Tarnhelm tightly couples and secures the execution in both worlds without exposing any additional attack surface by combining a number of different techniques, such as secure code loading, system call forwarding, transparent world switching, and the enforcement of inter-world control-flow integrity. We im- plemented a proof of concept of Tarnhelm and demonstrate its feasibility in a mobile computing setting.},
+ address = {New York, NY, USA},
+ author = {Quarta, Davide and Ianni, Michele and Machiry, Aravind and Fratantonio, Yanick and Gustafson, Eric and Balzarotti, Davide and Lindorfer, Martina and Vigna, Giovanni and Kruegel, Christopher},
+ booktitle = {Proceedings of the 2021 Research on Offensive and Defensive Techniques in the Context of Man At The End (MATE) Attacks},
+ doi = {10.1145/3465413.3488571},
+ isbn = {9781450385527},
+ keywords = {code confidentiality, trustzone},
+ location = {Virtual Event, Republic of Korea},
+ numpages = {15},
+ pages = {43–57},
+ publisher = {Association for Computing Machinery},
+ series = {Checkmate '21},
+ title = {Tarnhelm: Isolated, Transparent & Confidential Execution of Arbitrary Code in ARM's TrustZone},
+ url = {https://doi.org/10.1145/3465413.3488571},
+ year = {2021}
+}
+

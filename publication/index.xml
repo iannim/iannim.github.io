@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Michele Ianni</title>
+    <link>https://iannim.github.io/publication/</link>
+      <atom:link href="https://iannim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iannim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://iannim.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Some Experiments on High Performance Anomaly Detection - TO APPEAR</title>
+      <link>https://iannim.github.io/publication/ianni-2022-some/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2022-some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A compact encoding of security logs for high performance activity detection</title>
+      <link>https://iannim.github.io/publication/ianni-2021-compact/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2021-compact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity Daily Living prediction with Marked Temporal Point Processes</title>
+      <link>https://iannim.github.io/publication/fortino-2021-activity/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/fortino-2021-activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting activities of daily living via temporal point processes: Approaches and experimental results</title>
+      <link>https://iannim.github.io/publication/fortino-2021-predicting/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/fortino-2021-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some experiments on activity outlier detection</title>
+      <link>https://iannim.github.io/publication/ianni-2021-some/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2021-some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tarnhelm: Isolated, Transparent &amp; Confidential Execution of Arbitrary Code in ARM&#39;s TrustZone</title>
+      <link>https://iannim.github.io/publication/quarta-2021-tarnhelm/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/quarta-2021-tarnhelm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of Big Data dimensions vs Social Networks analysis</title>
+      <link>https://iannim.github.io/publication/ianni-2020-survey/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2020-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Marked Temporal Point Processes for Predicting Activities of Daily Living</title>
+      <link>https://iannim.github.io/publication/9209398/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/9209398/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and effective Big Data exploration by clustering</title>
+      <link>https://iannim.github.io/publication/fgcs-19/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/fgcs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and efficiently detecting security-critical sequences of actions</title>
+      <link>https://iannim.github.io/publication/guzzo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/guzzo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Data Exchange</title>
+      <link>https://iannim.github.io/publication/dblp-confsebd-greco-imst-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confsebd-greco-imst-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Overview of the Endless Battle between Virus Writers and Detectors: How Compilers Can Be Used as an Evasion Technique</title>
+      <link>https://iannim.github.io/publication/dblp-confdata-ianni-ms-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confdata-ianni-ms-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exotic Compilers as a Malware Evasion Technique</title>
+      <link>https://iannim.github.io/publication/dblp-confsebd-ianni-ms-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confsebd-ianni-ms-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Performance Computing by the Crowd</title>
+      <link>https://iannim.github.io/publication/cassavia-fimpp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/cassavia-fimpp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to implement a big data clustering algorithm: a brief report on lesson learned</title>
+      <link>https://iannim.github.io/publication/dblp-confsac-ianni-mmz-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confsac-ianni-mmz-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Big Data</title>
+      <link>https://iannim.github.io/publication/data-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/data-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Goes Big: CLUBS-P, an Algorithm for Unsupervised Clustering Around Centroids Tailored For Big Data Applications</title>
+      <link>https://iannim.github.io/publication/dblp-confpdp-ianni-mmz-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confpdp-ianni-mmz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed computing by leveraging and rewarding idling user resources from P2P networks</title>
+      <link>https://iannim.github.io/publication/cassavia-201881/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/cassavia-201881/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Big Data Clustering</title>
+      <link>https://iannim.github.io/publication/dblp-confideas-ianni-mmz-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confideas-ianni-mmz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trusted Environments for Volunteer Computing</title>
+      <link>https://iannim.github.io/publication/dblp-confiri-ianni-m-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confiri-ianni-m-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Peer to Peer Approach to Efficient High Performance Computing</title>
+      <link>https://iannim.github.io/publication/cassavia-2017-peer/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/cassavia-2017-peer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective High Performance Computing using Peer To Peer Networks</title>
+      <link>https://iannim.github.io/publication/cassavia-2017-effective/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/cassavia-2017-effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient High Performance Computing by user networks</title>
+      <link>https://iannim.github.io/publication/dblp-confsebd-cassavia-fimpp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confsebd-cassavia-fimpp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Performance Computing By The Crowd</title>
+      <link>https://iannim.github.io/publication/cassavia-2017-high/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/cassavia-2017-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trusted Volunteer Computing</title>
+      <link>https://iannim.github.io/publication/dblp-confsebd-ianni-m-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dblp-confsebd-ianni-m-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big data techniques for supporting accurate predictions of energy production from renewable sources</title>
+      <link>https://iannim.github.io/publication/ceci-2015-big/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ceci-2015-big/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Big Data Clustering (Discussion Paper)</title>
+      <link>https://iannim.github.io/publication/ianni-2015-hierarchical/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2015-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIPOC Project Research Summary (Discussion Paper).</title>
+      <link>https://iannim.github.io/publication/ceci-2015-vipoc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ceci-2015-vipoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Power Operating Center (Vi-POC): Big Data Techniques for Renewable Energy Market</title>
+      <link>https://iannim.github.io/publication/ceci-2014-virtual/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ceci-2014-virtual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
