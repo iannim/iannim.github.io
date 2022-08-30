@@ -2,8 +2,8 @@
   "name": "Michele Ianni",
   "short_name": "Michele Ianni",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#bbdefb",
+  "background_color": "#bbdefb",
   "icons": [{
     "src": "/media/icon_hu3eb9aad613e9bc1cecc283dbd7326395_160469_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
