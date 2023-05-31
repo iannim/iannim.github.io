@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>model fusion | Michele Ianni</title>
+    <link>https://iannim.github.io/tag/model-fusion/</link>
+      <atom:link href="https://iannim.github.io/tag/model-fusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>model fusion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iannim.github.io/media/icon_hu3eb9aad613e9bc1cecc283dbd7326395_160469_512x512_fill_lanczos_center_3.png</url>
+      <title>model fusion</title>
+      <link>https://iannim.github.io/tag/model-fusion/</link>
+    </image>
+    
+    <item>
+      <title>FL-Enhance: A federated learning framework for balancing non-IID data with augmented and shared compressed samples</title>
+      <link>https://iannim.github.io/publication/chiaro-2023101836/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/chiaro-2023101836/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
