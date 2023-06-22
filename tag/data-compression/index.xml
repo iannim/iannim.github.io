@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data compression | Michele Ianni</title>
+    <link>https://iannim.github.io/tag/data-compression/</link>
+      <atom:link href="https://iannim.github.io/tag/data-compression/index.xml" rel="self" type="application/rss+xml" />
+    <description>data compression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iannim.github.io/media/icon_hu3eb9aad613e9bc1cecc283dbd7326395_160469_512x512_fill_lanczos_center_3.png</url>
+      <title>data compression</title>
+      <link>https://iannim.github.io/tag/data-compression/</link>
+    </image>
+    
+    <item>
+      <title>SCOUT: Security by computing OUTliers on activity logs</title>
+      <link>https://iannim.github.io/publication/ianni-2023103355/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2023103355/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
