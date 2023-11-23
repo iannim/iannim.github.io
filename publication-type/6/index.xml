@@ -5,12 +5,20 @@
     <link>https://iannim.github.io/publication-type/6/</link>
       <atom:link href="https://iannim.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>6</title>
       <link>https://iannim.github.io/publication-type/6/</link>
     </image>
+    
+    <item>
+      <title>Firmware Dynamic Analysis Through Rewriting</title>
+      <link>https://iannim.github.io/publication/greco-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/greco-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High Performance Computing by the Crowd</title>
