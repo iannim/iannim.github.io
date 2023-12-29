@@ -1,0 +1,15 @@
+@inproceedings{10361441,
+ abstract = {Reentrancy is a type of attack that can occur in smart contracts, enabling untrusted external code execution within the contract. This method exploits a vulnerability that allows an attacker to repeatedly invoke a function in the contract, resulting in an infinite loop and potentially leading to fund theft. Therefore, the reentrancy attack represents a critical concern in blockchain security, prompting the development of various methods for analyzing and detecting reentrancy vulnerabilities over the last decade. Among these methods, the most recent ones leverage the advantages of AI and deep learning techniques. Nonetheless, several limitations persist in existing approaches. Many current methods rely on complex code analysis rules, resulting in a high number of false positives and false negatives. Additionally, the feature engineering process involving word embedding techniques can lead to the loss of critical information. Lastly, the majority of proposed methods necessitate access to the actual source code of the smart contracts for analysis. In this study, we introduce a straightforward and lightweight approach to address these limitations in reentrancy detection. Our approach employs an image-based detection method utilizing deep learning. The pipeline of our method involves disassembling the smart contracts into opcodes and transforming them into RGB images. These images are then used to train a VGG16 CNN model to detect similarities between images labeled as either “Vulnerable” or “Not Vulnerable”. To address class imbalance, we implement image augmentation techniques to expand the training dataset. Experimental results conducted on a publicly available dataset demonstrate that our model achieves a significantly high accuracy rate of 99.07%.},
+ author = {Tahir, Usman and Siyal, Fiza and Ianni, Michele and Guzzo, Antonella and Fortino, Giancarlo},
+ booktitle = {2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)},
+ doi = {10.1109/DASC/PiCom/CBDCom/Cy59711.2023.10361441},
+ issn = {2837-0740},
+ keywords = {},
+ month = {Nov},
+ number = {},
+ pages = {0779-0783},
+ title = {Exploiting Bytecode Analysis for Reentrancy Vulnerability Detection in Ethereum Smart Contracts},
+ volume = {},
+ year = {2023}
+}
+

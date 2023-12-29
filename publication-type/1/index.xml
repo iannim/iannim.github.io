@@ -5,12 +5,28 @@
     <link>https://iannim.github.io/publication-type/1/</link>
       <atom:link href="https://iannim.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://iannim.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning-Based Detection of CSRF Vulnerabilities in Web Applications</title>
+      <link>https://iannim.github.io/publication/10361414/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/10361414/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Bytecode Analysis for Reentrancy Vulnerability Detection in Ethereum Smart Contracts</title>
+      <link>https://iannim.github.io/publication/10361441/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/10361441/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explaining Binary Obfuscation</title>
