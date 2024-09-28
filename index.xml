@@ -5,12 +5,44 @@
     <link>https://iannim.github.io/</link>
       <atom:link href="https://iannim.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Ianni</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2024 19:47:13 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>Michele Ianni</title>
       <link>https://iannim.github.io/</link>
     </image>
+    
+    <item>
+      <title>Enabling Obfuscation Detection in Binary Software through eXplainable AI</title>
+      <link>https://iannim.github.io/publication/greco-2024-tetc/</link>
+      <pubDate>Sat, 28 Sep 2024 19:47:13 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/greco-2024-tetc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Forensic Framework for Screen Capture Validation in Legal Contexts</title>
+      <link>https://iannim.github.io/publication/10679466/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/10679466/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity Recognition and Prediction for Smart IoT Environments</title>
+      <link>https://iannim.github.io/publication/ianni-2024-activitybook/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2024-activitybook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Special issue on software protection and attacks</title>
+      <link>https://iannim.github.io/publication/ianni-2024103889/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/ianni-2024103889/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Firmware Dynamic Analysis Through Rewriting</title>
@@ -65,6 +97,14 @@
       <link>https://iannim.github.io/publication/rieyan-2023102004/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://iannim.github.io/publication/rieyan-2023102004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Security. ESORICS 2023 International Workshops: CPS4CIP, ADIoT, SecAssure, WASP, TAURIN, PriST-AI, and SECAI, The Hague, The Netherlands, September 25–29, 2023, Revised Selected Papers, Part II</title>
+      <link>https://iannim.github.io/publication/wasp-2024-esorics/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/wasp-2024-esorics/</guid>
       <description></description>
     </item>
     
