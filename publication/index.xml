@@ -5,12 +5,28 @@
     <link>https://iannim.github.io/publication/</link>
       <atom:link href="https://iannim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2024 20:06:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://iannim.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Light sensor based covert channels on mobile devices</title>
+      <link>https://iannim.github.io/publication/dallapreda-2025121581/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/dallapreda-2025121581/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Obfuscation Detection in Binary Software through eXplainable AI</title>
+      <link>https://iannim.github.io/publication/10636038/</link>
+      <pubDate>Sun, 10 Nov 2024 14:58:32 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/10636038/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enabling Obfuscation Detection in Binary Software through eXplainable AI</title>
