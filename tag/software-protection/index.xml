@@ -5,7 +5,7 @@
     <link>https://iannim.github.io/tag/software-protection/</link>
       <atom:link href="https://iannim.github.io/tag/software-protection/index.xml" rel="self" type="application/rss+xml" />
     <description>software protection</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2024 14:53:44 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 14:47:22 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>software protection</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Enabling Obfuscation Detection in Binary Software through eXplainable AI</title>
       <link>https://iannim.github.io/publication/10636038/</link>
-      <pubDate>Wed, 13 Nov 2024 14:53:44 +0000</pubDate>
+      <pubDate>Fri, 25 Apr 2025 14:47:22 +0000</pubDate>
       <guid>https://iannim.github.io/publication/10636038/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CheckMATE &#39;24 - Research on Offensive and Defensive Techniques in the context of Man At The End (MATE) Attacks</title>
+      <link>https://iannim.github.io/publication/10-1145-3658644-3691549/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/10-1145-3658644-3691549/</guid>
       <description></description>
     </item>
     

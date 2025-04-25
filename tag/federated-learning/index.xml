@@ -5,12 +5,20 @@
     <link>https://iannim.github.io/tag/federated-learning/</link>
       <atom:link href="https://iannim.github.io/tag/federated-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>federated learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>federated learning</title>
       <link>https://iannim.github.io/tag/federated-learning/</link>
     </image>
+    
+    <item>
+      <title>Federated Learning in radiomics: A comprehensive meta-survey on medical image analysis</title>
+      <link>https://iannim.github.io/publication/raza-2025108768/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/raza-2025108768/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model aggregation techniques in federated learning: A comprehensive survey</title>
