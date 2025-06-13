@@ -5,7 +5,7 @@
     <link>https://iannim.github.io/</link>
       <atom:link href="https://iannim.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Ianni</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jun 2025 10:46:47 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jun 2025 12:05:06 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>Michele Ianni</title>
@@ -15,8 +15,17 @@
     <item>
       <title>Enabling Obfuscation Detection in Binary Software through eXplainable AI</title>
       <link>https://iannim.github.io/publication/10636038/</link>
-      <pubDate>Fri, 13 Jun 2025 10:46:47 +0000</pubDate>
+      <pubDate>Fri, 13 Jun 2025 12:05:06 +0000</pubDate>
       <guid>https://iannim.github.io/publication/10636038/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A cross-architecture malware detection approach based on intermediate representation</title>
+      <link>https://iannim.github.io/publication/greco-2025104117/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/greco-2025104117/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
