@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>internet of things(iot) | Michele Ianni</title>
+    <title>Internet of things(iot) | Michele Ianni</title>
     <link>https://iannim.github.io/tag/internet-of-thingsiot/</link>
       <atom:link href="https://iannim.github.io/tag/internet-of-thingsiot/index.xml" rel="self" type="application/rss+xml" />
-    <description>internet of things(iot)</description>
+    <description>Internet of things(iot)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
-      <title>internet of things(iot)</title>
+      <title>Internet of things(iot)</title>
       <link>https://iannim.github.io/tag/internet-of-thingsiot/</link>
     </image>
     
@@ -17,7 +17,8 @@
       <link>https://iannim.github.io/publication/chen-2023100871/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://iannim.github.io/publication/chen-2023100871/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mobile devices | Michele Ianni</title>
+    <title>Mobile devices | Michele Ianni</title>
     <link>https://iannim.github.io/tag/mobile-devices/</link>
       <atom:link href="https://iannim.github.io/tag/mobile-devices/index.xml" rel="self" type="application/rss+xml" />
-    <description>mobile devices</description>
+    <description>Mobile devices</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
-      <title>mobile devices</title>
+      <title>Mobile devices</title>
       <link>https://iannim.github.io/tag/mobile-devices/</link>
     </image>
     
@@ -17,7 +17,8 @@
       <link>https://iannim.github.io/publication/dallapreda-2025121581/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://iannim.github.io/publication/dallapreda-2025121581/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

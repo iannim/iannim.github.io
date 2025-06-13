@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine learning | Michele Ianni</title>
+    <title>Machine learning | Michele Ianni</title>
     <link>https://iannim.github.io/tag/machine-learning/</link>
       <atom:link href="https://iannim.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>machine learning</description>
+    <description>Machine learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
-      <title>machine learning</title>
+      <title>Machine learning</title>
       <link>https://iannim.github.io/tag/machine-learning/</link>
     </image>
     
@@ -17,7 +17,8 @@
       <link>https://iannim.github.io/publication/qi-2024272/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://iannim.github.io/publication/qi-2024272/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
