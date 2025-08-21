@@ -5,12 +5,20 @@
     <link>https://iannim.github.io/publication/</link>
       <atom:link href="https://iannim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://iannim.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A formal framework for LLM-assisted automated generation of Zeek signatures from binary artifacts</title>
+      <link>https://iannim.github.io/publication/greco-2026108086/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/greco-2026108086/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A cross-architecture malware detection approach based on intermediate representation</title>
