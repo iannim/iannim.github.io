@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resilience | Michele Ianni</title>
+    <link>https://iannim.github.io/tag/resilience/</link>
+      <atom:link href="https://iannim.github.io/tag/resilience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resilience</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iannim.github.io/media/icon_huea36a7b1273dd89c88b17d4d756b6cd4_301670_512x512_fill_lanczos_center_3.png</url>
+      <title>Resilience</title>
+      <link>https://iannim.github.io/tag/resilience/</link>
+    </image>
+    
+    <item>
+      <title>Evasion of Deep Learning Malware Detection via Adversarial Selective Obfuscation</title>
+      <link>https://iannim.github.io/publication/11130150/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://iannim.github.io/publication/11130150/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
